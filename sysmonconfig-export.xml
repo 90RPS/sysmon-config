@@ -11,6 +11,7 @@
   Fork license:	Creative Commons Attribution 4.0 | You may privatize, fork, edit, teach, publish, or deploy for commercial use - with attribution in the text.
 
   REQUIRED: Sysmon version 8.00 or higher, it's recommended you stay updated.
+
 -->
 
 <Sysmon schemaversion="4.10">
